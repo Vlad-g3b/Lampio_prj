@@ -1,0 +1,2 @@
+//pentru Lampa id=l SmartInterior=s SmartExterior =e Prelungitor=p SursaIluminat=i
+#l0,231,123,123,1123123.0,false,false,112,#1
